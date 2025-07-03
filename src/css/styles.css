@@ -664,6 +664,56 @@ body {
     }
 }
 
+@media (max-width: 480px) {
+    .container {
+        padding: 0 1rem;
+    }
+    .hero-name {
+        font-size: 1.7rem;
+    }
+    .hero-title {
+        font-size: 1.1rem;
+    }
+    .profile-image {
+        width: 180px;
+        height: 180px;
+    }
+    .section-title {
+        font-size: 2rem;
+    }
+    .education-card, .contact-card {
+        padding: 1.5rem;
+    }
+    .monitor-screen-small {
+        width: 120px;
+        height: 75px;
+    }
+    .timeline-date {
+        left: -90px;
+        font-size: 0.7rem;
+        padding: 0.3rem 0.5rem;
+    }
+    .timeline-content {
+        padding: 1rem;
+    }
+    .timeline-item {
+        padding-left: 60px;
+    }
+    .timeline-dot, .timeline-line, .timeline-progress {
+        left: 8px;
+    }
+    .timeline-items {
+        padding-left: 30px;
+    }
+    .contact-title, .contact-subtitle {
+        font-size: 1.5rem;
+    }
+    .contact-btn {
+        font-size: 1rem;
+        padding: 0.7rem 1.2rem;
+    }
+}
+
 /* Animation Classes */
 .fade-in {
     opacity: 0;

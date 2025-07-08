@@ -24,8 +24,8 @@ function updateLanguage() {
 
 // Animated Title Rotation
 const titles = {
-    en: ['Architect', 'Creator', 'Entrepreneur', 'Developer'],
-    ko: ['아키텍트', '크리에이터', '사업가', '개발자']
+    en: ['Architect', 'Creator', 'Entrepreneur', 'Developer', 'Engineer'],
+    ko: ['아키텍트', '크리에이터', '사업가', '개발자', '엔지니어']
 };
 
 let currentTitleIndex = 0;

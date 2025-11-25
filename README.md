@@ -6,7 +6,9 @@
 <p align="center">
   <sub>안녕하세요, 현재 AR·XR·AI 서비스와 AI 교육사업을 기획하고 만드는 이재휘입니다.</sub>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=metahwi&style=flat-square&color=blue" alt="profile views" />
+</p>
 ---
 
 ### At a glance

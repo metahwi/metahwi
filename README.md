@@ -3,6 +3,9 @@
   Product manager & full-stack developer in Seoul, Korea<br/>
   B.S. Computer Science & Economics @ New York University
 </p>
+<p align="center">
+  <sub>안녕하세요, AR·XR·AI 서비스와 AI 교육사업을 기획하고 만드는 이재휘입니다.</sub>
+</p>
 
 ---
 
@@ -28,7 +31,7 @@
 
 - **3D Room – interactive 3D portfolio space**  
   Custom 3D room built from scratch using Blender, Photoshop/Illustrator, and Three.js.  
-  Focused on interaction design, lighting, and asset optimization for the web.  
+  Focus on interaction design, lighting, and asset optimization for the web.  
   • Repo: <a href="https://github.com/metahwi/3D_Room" target="_blank">github.com/metahwi/3D_Room</a>
 
 - **YouTine – SESAC Hackathon 2025**  
@@ -38,7 +41,7 @@
 
 - **Course Registration System (CRS)**  
   Console-based course registration system modeling students, courses, and enrollment rules.  
-  Implemented data structures, basic validation, and a simple user flow.  
+  Implemented data structures, validation, and a simple user flow.  
   • Repo: <a href="https://github.com/metahwi/Course-Regsitration-System-Program" target="_blank">github.com/metahwi/Course-Regsitration-System-Program</a>
 
 - **MachineLearning**  
@@ -122,14 +125,19 @@
 
 - **AWS Certified AI Practitioner (AIF-C01)** – Amazon Web Services  
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** – Microsoft  
+  <br/><sub>Credential ID: F89B2ED7DA6B8F8C · Earned Nov 13, 2025</sub>
 
 <p align="left">
-  <!-- Replace `#` with your public badge / verification links (Credly, MS Learn, etc.) -->
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JaeHwiLee-5523/F89B2ED7DA6B8F8C?sharingId=9BE384656ABCF0C0" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
-  </a>
+  <!-- TODO: replace `#` with your AWS verification / Credly link when available -->
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" 
+         alt="AWS Certified AI Practitioner"/>
+  </a>
+
+  <!-- Azure verification link (image can be swapped to a local PNG later) -->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JaeHwiLee-5523/F89B2ED7DA6B8F8C?sharingId=9BE384656ABCF0C0" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white" 
+         alt="Microsoft Certified: Azure Fundamentals"/>
   </a>
 </p>
 
@@ -138,4 +146,4 @@
 ### Contact
 
 - 📫 Email: **metahwi@gmail.com**  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/jaelee00)
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/jaelee00" target="_blank">linkedin.com/in/jaelee00</a>

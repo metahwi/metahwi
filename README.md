@@ -4,7 +4,7 @@
   B.S. Computer Science & Economics @ New York University
 </p>
 <p align="center">
-  <sub>안녕하세요, AR·XR·AI 서비스와 AI 교육사업을 기획하고 만드는 이재휘입니다.</sub>
+  <sub>안녕하세요, 현재 AR·XR·AI 서비스와 AI 교육사업을 기획하고 만드는 이재휘입니다.</sub>
 </p>
 
 ---
@@ -83,11 +83,13 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="32" height="32"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="32" height="32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+         alt="aws" height="32"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/>
   </a>
+
 
   <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">

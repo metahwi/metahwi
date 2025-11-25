@@ -8,10 +8,6 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=metahwi&style=flat-square&color=blue" alt="profile views" />
-</p>
-<a href="https://u8views.com/github/metahwi"><img src="https://u8views.com/api/v1/github/profiles/96489420/views/day-week-month-total-count.svg"></a>
-</p>
-
 ---
 
 ### At a glance

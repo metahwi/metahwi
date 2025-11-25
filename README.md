@@ -125,7 +125,7 @@
 
 <p align="left">
   <!-- Replace `#` with your public badge / verification links (Credly, MS Learn, etc.) -->
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JaeHwiLee-5523/F89B2ED7DA6B8F8C?sharingId=9BE384656ABCF0C0" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">

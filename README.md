@@ -10,11 +10,10 @@
 
 - 💼 Product management / service planning for AR, XR, and AI education services in Seoul  
 - 👨‍💻 Full-stack background from internships and university projects (web, data, 3D/interactive)  
-- ☁️ Microsoft Azure Fundamentals – AZ-900  
 - 🌐 Portfolio: <a href="https://metahwi.github.io/metahwi" target="_blank">metahwi.github.io/metahwi</a>  
 - 🎮 Side projects in 3D web, functional games, and creative tools
 
-> Earlier projects live on my old NYU student GitHub.  
+> Earlier projects live on my old NYU student GitHub tied to a university email.  
 > This account is a curated set of current work and client projects.
 
 ---
@@ -48,30 +47,95 @@
 
 ---
 
-### How I work
+### Languages & Tools
 
-**Product & design**
+<p align="left">
+  <!-- Core languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
+  </a>
 
-- Plan features and services for AR/XR and AI-based education products  
-- Write specs, define user flows, and work with designers and engineers  
-- Use Figma for quick wireframes and interaction ideas
+  <!-- Frontend / backend -->
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32"/>
+  </a>
 
-**Engineering**
+  <!-- Cloud & infra -->
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="32" height="32"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="32" height="32"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/>
+  </a>
 
-- Frontend: HTML/CSS, JavaScript, React, (sometimes Next.js)  
-- Backend: Node.js/Express, Python, REST APIs  
-- Data & infra: Azure, Docker, PostgreSQL, MongoDB  
-- 3D / XR: Unity, Unreal Engine, Blender, Three.js / WebGL
+  <!-- Databases -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32"/>
+  </a>
+
+  <!-- 3D / XR -->
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="32" height="32"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32" height="32"/>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="unreal" width="32" height="32"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="32" height="32"/>
+  </a>
+
+  <!-- Version control -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
+  </a>
+</p>
 
 ---
 
 ### Certifications
 
-- ![AZ-900](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+**Official certifications**
+
+- **AWS Certified AI Practitioner (AIF-C01)** – Amazon Web Services  
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** – Microsoft  
+
+<p align="left">
+  <!-- Replace `#` with your public badge / verification links (Credly, MS Learn, etc.) -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals"/>
+  </a>
+</p>
 
 ---
 
 ### Contact
 
 - 📫 Email: **metahwi@gmail.com**  
-- 🔗 LinkedIn: <!-- add your LinkedIn URL here -->
+- 🔗 LinkedIn: (https://www.linkedin.com/in/jaelee00)
